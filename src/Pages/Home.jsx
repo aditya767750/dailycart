@@ -8,7 +8,7 @@ const Home = ({cart,setCart,count,setCount}) => {
       <div className="w-full flex justify-center items-center flex-col gap-8 mt-30">
         <div className="flex flex-col gap-3">
           <h1 className="text-5xl text-[#081F4B] font-bold ">
-            DailyCart
+            Welcome to DailyCart
           </h1>
 
           <p className="text-xl text-center text-gray-500">
